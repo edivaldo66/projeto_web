@@ -1,0 +1,39 @@
+#div1 h1, #div2 h1{
+	color: blue;
+}
+
+h1{
+	color: green;
+}
+h2{
+	color: green;
+}
+
+label{
+	color: green;
+}
+
+table td, th{
+	border: 1px solid;
+	opacity: 0.5;
+}
+
+.menu{
+	list-style-type: none;
+	float: right;
+}
+
+.menu li{
+	margin: 10px;
+	float: left;
+}
+
+#rodape{
+	margin-top: 50px;
+	text-align: center;
+}
+
+body {
+
+	background-color: yellowgreen;
+}
